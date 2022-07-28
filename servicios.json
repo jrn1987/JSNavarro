@@ -1,0 +1,5 @@
+ [
+    {"id": 1, "nombre": "Marketing", "precio": 2000, "imagen": "logo.png"}, 
+    {"id": 2, "nombre": "PR", "precio": 4000, "imagen": "logo.png"}, 
+    {"id": 3, "nombre": "Comunidad", "precio": 6000, "imagen": "logo.png"}
+]

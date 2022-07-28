@@ -1,0 +1,19 @@
+{
+  "name": "jsnavarro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "carrito2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrn1987/JSNavarro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrn1987/JSNavarro/issues"
+  },
+  "homepage": "https://github.com/jrn1987/JSNavarro#readme"
+}
